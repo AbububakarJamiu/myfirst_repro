@@ -7,3 +7,7 @@ h1{
     border: 4px dashed blue;
     font: optional;
 }
+p{
+    color: #bbc12345;
+    letter-spacing: 4px;
+}
